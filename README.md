@@ -57,7 +57,9 @@ DocuHarvest is fully self-contained:
 
 ---
 
-## Stack
+## License
+
+MIT License — see [LICENSE](./LICENSE)
 
 | Layer | Technology |
 |---|---|
